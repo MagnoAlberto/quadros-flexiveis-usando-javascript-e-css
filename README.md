@@ -49,3 +49,6 @@ for (var i = 0; i < quadros.length; i++) {
 ```
 
 Isso é apenas um exemplo básico de como criar quatro quadros flexíveis usando JavaScript e CSS. Você pode personalizar o código de acordo com as suas necessidades e adicionar mais funcionalidades conforme desejar.
+
+[quadros-flexiveis-usando-javascript-e-css](https://jsitor.com/i5VOJc-lyA)
+
